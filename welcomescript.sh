@@ -3,3 +3,5 @@ echo "Hello 312 Student!"
 echo "Enter Your Name Please:"
 read name
 echo "$name, welcome to 312 School"
+echo 'new unnecessary changes'
+echo 'new unnecessary changes'
